@@ -1,0 +1,60 @@
+/**
+* @name SpaceSimple
+* @author Olinx#9638
+* @authorLink https://github.com/matiaspor
+* @version 0.0.1
+* @invite SBuYeHh
+* @description Simple Space theme for BetterDiscord.
+* @source https://github.com/matiaspor/spacesimple
+* @website olinx.rf.gd
+*/
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/aerobase.css");
+@import url("https://fonts.googleapis.com/css?family=Quicksand&amp;display=swap");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HoverMemberList.css");
+:root {
+--title: "SpaceSimple";
+--background: url("https://i.ibb.co/zhYmtmn/Discord-Backgroundtest.png");
+--font: "Quicksand";
+--time: 10s;
+--Online: rgb(0, 255, 136);
+--Idle: rgb(0, 99, 156);
+--Unavailable: rgb(228, 15, 0);
+--Offline: rgb(90, 95, 100);
+--Playing: url("https://i.ibb.co/zhYmtmn/Discord-Backgroundtest.png");
+--Xbox: url("https://i.ibb.co/zhYmtmn/Discord-Backgroundtest.png");
+--Spotify: url("https://i.ibb.co/zhYmtmn/Discord-Backgroundtest.png");
+--Streaming: url("https://i.ibb.co/zhYmtmn/Discord-Backgroundtest.png");
+--grey: rgb(77, 70, 85);
+--darkgrey: rgb(18, 18, 18);
+--ChatBox: var(--darkgrey5);
+--Sidebar: var(--darkgrey5);
+--SendMessage: var(--darkgrey);
+--logo: url("https://i.ibb.co/pQNFc2t/discord-logo.png");
+--HoverMessage: var(--darkgrey5);
+--JoinUs: "This Player Has Invited You To Their Group";
+--AddNewServer: "➕ Add a new server";
+--Close: "❌";
+--Resize: "⬛";
+--Hide: "◾◾◾";
+--ProfilePic: "Watch me";
+--Unread: "🔔";
+--Options: "⚙️";
+--Emoji: "🙂";
+--EmojiHover: "😃";
+--Channel: "💬";
+--Voice: "🔊";
+--Community: "Olinx";
+--WelcomeMessage: "Welcome Back";
+--Watermark: "Made by Olinx";
+--EditStatus: "Put your custom status";
+--Folders: "📁";
+--FoldersOpen: "💠";
+--Micro: "🎙️";
+--Headset: "🎧";
+--TitleBG: var(--darkgrey5);
+--ServerSize: 45px;
+--animation: rgb(105, 105, 105), rgb(19, 3, 9);
+--grey5: rgba(77, 70, 85, .5);
+--darkgrey5: rgba(18, 18, 18, .75);
+--Primary: rgb(105, 105, 105);
+} /* Simple Space Theme! */
