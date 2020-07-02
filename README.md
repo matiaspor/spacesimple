@@ -3,7 +3,7 @@
 
 New BetterDiscord Theme BETA Called SpaceSimple
 
-https://i.ibb.co/27Zfvz6/unknownfinal.png
+
 
 https://i.ibb.co/GTr22P8/unknown-2.png
 
@@ -14,5 +14,4 @@ RELEASE: 2/7/2020
 
 
 
-_*General Public Licence
-
+**General Public Licence
